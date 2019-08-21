@@ -65,6 +65,8 @@ namespace CSharpBasicsConsole
                 Console.WriteLine(num.ToString() + "\n");
             }
 
+            Console.WriteLine("GITHUB Commit");
+
             Console.ReadKey();
         }
     }
