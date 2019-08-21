@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HTML5andCSSandBootStarp\CSharPBasicsConsole\bin\Debug\CSharPBasicsConsole.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HTML5andCSSandBootStarp\CSharPBasicsConsole\bin\Debug\CSharPBasicsConsole.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HTML5andCSSandBootStarp\CSharPBasicsConsole\bin\Debug\CSharPBasicsConsole.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HTML5andCSSandBootStarp\CSharPBasicsConsole\obj\Debug\CSharPBasicsConsole.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HTML5andCSSandBootStarp\CSharPBasicsConsole\obj\Debug\CSharPBasicsConsole.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HTML5andCSSandBootStarp\CSharPBasicsConsole\obj\Debug\CSharPBasicsConsole.pdb
